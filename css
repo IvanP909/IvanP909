@@ -1,7 +1,9 @@
 <head>
   <h1>Video Games</h1>
   </head>
-<body>
+<body style="background-color:#00fffa">
+
+
   <p>
   <h2> Fighting Games</h2>
   Hello fellow gamer if you are reading<br> this that means that means that you're<br> interested in video games but not just<br> any genre, the fighting game genre,<br> but fighting games!
@@ -26,7 +28,34 @@ known for their skill as a competitive player.<br> Many people become profession
 </ul>
 </p>
 <p>
-<h3 
+  <h3>Popularity of Fighting Games</h3>
+<table border="1">
+  <tr>
+    <th>Fighting Games</th>
+    <th>Popularity </th>
+  </tr>
+  <tr>
+    <td>Super Smash Bros Ultimate </td>
+    <td><center>#1</center></td>
+  </tr>
+  <tr>
+    <td>Tekken 7</td>
+    <td><center>#2</center></td>
+  </tr>
+  <tr>
+     <td>Dragon Ball Fighter Z</td>
+    <td><center>#3</center></td>
+  </tr>
+  <tr>
+   <td>Mortal KnombatZ</td>
+    <td><center>#4</center></td>
+  </tr>
+</table>
+</p>
+</body>
+
+  
+ 
 
 
 </body>
